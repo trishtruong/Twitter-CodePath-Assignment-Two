@@ -1,6 +1,6 @@
-# Project 3 - *TrishTimeLine*
+# Project 3 - *Twitter*
 
-**Name of your app** is a basic twitter app to read your tweets.
+**TrishTimeLine** is a basic twitter app to read your tweets.
 
 Time spent: **4** hours spent in total
 
