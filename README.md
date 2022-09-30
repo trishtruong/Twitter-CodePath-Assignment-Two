@@ -25,3 +25,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+## Issues
+
+I ran into diffculties requesting from the Twitter API, and double checked all my code syntax, API keys, and API urls. I have requested elevated access, but it has not gone through so perhaps that can resolve my issue and I will update the readme then.
+
