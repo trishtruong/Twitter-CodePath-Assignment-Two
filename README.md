@@ -12,7 +12,7 @@ The following **required** functionality is completed:
 - [x] User can log in. (1pt)
 - [x] User can log out. (1pt)
 - [x] User stays logged in across restarts. (1pt)
-- [ ] User can view tweets with the user profile picture, username, and tweet text. (6pts)
+- [x] User can view tweets with the user profile picture, username, and tweet text. (6pts)
 
 The following **bonus** features are implemented:
 
@@ -23,9 +23,6 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![] ("https://github.com/trishtruong/Twitter-CodePath-Assignment-Two/blob/main/Twitter%20Walk%20Through.gif")
 
-## Issues
-
-I ran into diffculties requesting from the Twitter API, and double checked all my code syntax, API keys, and API urls. I have requested elevated access, but it has not gone through so perhaps that can resolve my issue and I will update the readme then.
 
