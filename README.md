@@ -23,6 +23,6 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![] ("https://github.com/trishtruong/Twitter-CodePath-Assignment-Two/blob/main/Twitter%20Walk%20Through.gif")
+![] (https://github.com/trishtruong/Twitter-CodePath-Assignment-Two/blob/main/Twitter%20Walk%20Through.gif)
 
 
